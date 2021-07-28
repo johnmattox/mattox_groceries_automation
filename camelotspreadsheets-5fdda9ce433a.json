@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "camelotspreadsheets",
+  "private_key_id": "5fdda9ce433abdc34451ee9f40f974cd412e6ab1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6+HNP3I+vEPj0\nb0r9Ud6Q5BaHuxbFF56+chJeP9HOh8uSQOwA8NiyeMVWjEVogDKBZN56GqG4my2v\ndUdt1QMNUMJc5kqWEBg83F8+Kt/kBg6c+7g+WptxucitwHiK/uCWppjAoxo5d/yX\nWFzRWgUsxlGsqPpEZD859oqgYNBJonqofR4KT4sE4+AzQDUn/cYVBSwZXQV/oVYL\n3bzyOqZNQOcTP0SYKpvYvlqvaZyIHeW5ZboYECsahUAB13xFfpU/ze421ezEPSFf\nmif5ZZ3Si/rZwuazC/caWwq1+x6uv8q9UkdR89m5UTth9Udt4mr4YW9oYC+NzF5F\n6oYrTPPTAgMBAAECggEAFkRxuKCsN22I4NUCXtdpxOLNRh6uMGHxmifhb8/KT9O/\nbGyGpE61gtKRr2Q8U0ef/Dtu/abUp4pKWhutxUhkY9PARNUj1pRrITseWBE+IfI7\nZPnbsF1qfD8Om0GReahaR3GRlAZjdgBdbl7r4FOyyxQsH6lDnnKRTyNsJiacQoXp\njX3UEInSw2LLQ3sBXObEXATrUJFc10378i/O4xHA0bAsVToKsBmP3oxk9gJi2F74\nRcSAbJ3kVDkwCLLWujoGETblEaplTw+vcBE5g9oWHL+li2DeD+Z/cMhlNUqfhVRd\n3xhG625h5V2PR9IvKsmOP4bWqY5EgAh+Psvmbsn4XQKBgQDqnse9qdftzklf8Ilo\nrnyuFE6lv+YlnB1tDnnaPNNk/knilGIJGbJiA068yhS5LtIe153ICCv35YV4wr0E\ns/fe+hQqJQ1HebqcQVcZ4CGje66GS3JiwsBP6IxawoPx1AK4lDnF8vg2wnVtXXOW\nXoiO02Xitaz/oi935tebGidzRQKBgQDMAhj9cZNTHS1XfPjng8sZ4+gRPehVgriJ\n2e/x5gGs6vCWm0Q+ySC8dO2H8LDBvO8Q/9qfpreZ1gvNMp9Fk1PPQHOmMXlZl8Xm\nUImCd14N2Vzppvid2KxHMFNsnrPdVdjW5lyZwtLQL4lPntZE6Cph7ZJaK2V1K6yz\nJB/OXKFwNwKBgBPk1MDzRtjmNfiJl80lhnLoS+boB6bGvwQBRznHEJGusishM9Lb\nt/FxoFqHtAwjuTNeSwWsE7ZYYuHjeU2NyQXCJLWSILcfzj/zlmQeShvnn9vJR/Cx\n3MapzETh23hE5topz2BGgt95y6UzWFq2t1OM/0Wi7AFdCjNbgoqnRBMVAoGBAMi6\n96PIcNFC0C5ZRP9nahvbZ6gvZb9dk/3vdmxpiBSARqGpvIialZ9Y3a74YLMAF6p+\nVLrp65VuSsZonNZ0k+5E2IYZ//DrqUlozSSWFvFBgm5UYCPP4hNZtXwW25tYsLci\nitKwI4W8gDrbarD6T1lzzKD0OiwEATVywejms+IZAoGAYNIBz4J64VXf+IAgkj+8\nQ86Rfgpx2/IWpcKzLnw0q/hV4hHbS4XtvKUz5ATpwQDrbF/LMkmwm0Hp4P9ah6o/\nW5bcO/5WsX46d+OcUVyPMSt1EQlmhvttmIXVuJ0vUzU7mYUkClzSZpoqGfqPg73d\nycF1Ky144Y+74RPrXk3lP9w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "camelot-spreadsheets@camelotspreadsheets.iam.gserviceaccount.com",
+  "client_id": "100049606099529109833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/camelot-spreadsheets%40camelotspreadsheets.iam.gserviceaccount.com"
+}
